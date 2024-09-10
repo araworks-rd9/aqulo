@@ -1,5 +1,5 @@
 # aqulo
-Aquarium　IoT
+Aquarium IoT Logger
 
 # 
 
